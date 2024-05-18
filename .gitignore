@@ -1,0 +1,8 @@
+src/__pycache__/
+src/frames/
+src/cascade.xml
+.env
+
+
+.vscode/
+*swp
